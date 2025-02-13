@@ -16,34 +16,27 @@ int main() {
     int pont;
     float code;
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
-    printf("nome:%n",);
-    printf("pais:%.2n",);
-    printf("float:%f",);
-    printf("are:%d",);
-    printf("população:%.2d",);
-    printf("PIB:%.2f",);
-    printf("code:%.3d",);
+    printf("nome:%n");
+    printf("float:%f");
+    printf("area:%d");
+    printf("população:%.2d");
+    printf("PIB:%.2f");
+    printf("code:%.3d");
     // Cadastro das Cartas:
     printf("inseriri nome da cdade\n");
-    scanf("%" \n);
+    scanf("%n",& \n);
 
-    printf("inseriri nome da \n");
-    scanf("%" \n);
+    printf("inseriri area\n");
+    scanf("%",& \n);
 
-    printf("inseriri nome da \n");
-    scanf("%" \n);
+    printf("inseriri população\n");
+    scanf("%",& \n); 
 
-    printf("inseriri nome da \n");
-    scanf("%" \n);
+    printf("inseriri PIB\n");
+    scanf("%",& \n);
 
-    printf("inseriri nome da \n");
-    scanf("%" \n); 
-
-    printf("inseriri nome da \n");
-    scanf("%" \n);
-
-    printf("inseriri nome da \n");
-    scanf("%" \n);
+    printf("inseriri code\n");
+    scanf("%",& \n);
     // Sugestão: Utilize a função scanf para capturar as entradas do usuário para cada atributo.
     // Solicite ao usuário que insira as informações de cada cidade, como o código, nome, população, área, etc.
     
